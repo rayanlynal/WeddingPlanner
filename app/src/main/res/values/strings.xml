@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="lbl_log_in">Log in</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_forgot_your_password"><u>Forgot your password?</u></string>
+    <string name="lbl_or_login_with_your_email">Or Login with your email:</string>
+    <string name="lbl_sign_up_for_free">Sign up for free</string>
+    <string name="lbl_sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="lbl_sign_in_with_google">Sign in with Google</string>
+    <string name="lbl_first_and_last_name">First and last name</string>
+    <string name="lbl_wedding_date">Wedding Date</string>
+    <string name="lbl_city_town">City/Town</string>
+    <string name="lbl_by_clicking_next_you_agree_to_weddingwire_s">By clicking Next you agree to WeddingWire\'s</string>
+    <string name="lbl_terms_of_use"><u>Terms of use</u></string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_choose_your_role">Choose your role</string>
+    <string name="lbl_bride">Bride</string>
+    <string name="lbl_guest">Guest</string>
+    <string name="lbl_others">Others</string>
+    <string name="lbl_groom">Groom</string>
+    <string name="lbl_done">Done</string>
+    <string name="err_please_select_wedding_role">Please select your wedding role</string>
+</resources>
